@@ -9,7 +9,7 @@ In the world of online communication, Discord has emerged as a dominant platform
 
 A Discord voice changer is a software or application that alters the user's own voice in real-time during voice chats on the Discord platform so that it sounds like a new voice. It allows users to modify their voice in various ways, such as changing pitch, swapping genders, adding sound effects, or even adopting different accents, providing a new dimension to their online persona.
 
-[<img src="https://github.com/AndreCloapart/voice-changer-for-discord/blob/main/dl.png"/>](https://bit.ly/4diEnnO)
+[<img src="https://github.com/AndreCloapart/voice-changer-for-discord/blob/main/dl4.png"/>](https://bit.ly/4diEnnO)
 
 Discord is a popular communication platform designed for communities, gamers, and anyone looking for a place to connect with others. Launched in 2015, Discord offers a range of features including text, voice, and video chat, as well as the ability to create and join servers tailored to specific interests or topics. Its user-friendly interface, customizable server settings, and robust moderation tools make it a versatile platform for both casual conversations and organized communities. With millions of active users worldwide, Discord has become a hub for friendships, gaming clans, study groups, and much more, fostering a vibrant and diverse online ecosystem.
 
@@ -49,4 +49,4 @@ Put a spin on normal gameplay by incorporating our voice changer for Discord. Wa
 
 Looking for fun ways to make Discord more exciting? Give yourself a whole new vocal identity with the most powerful real-time voice changer. Sound like a world-renowned politician one minute, then re-enact your favorite movie scene the next. The voice you want can be acquired with our voice changer software. 
 
-[<img src="https://github.com/AndreCloapart/voice-changer-for-discord/blob/main/dl.png"/>](https://bit.ly/4diEnnO)    
+[<img src="https://github.com/AndreCloapart/voice-changer-for-discord/blob/main/dl4.png"/>](https://bit.ly/4diEnnO)    
